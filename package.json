@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe-neural-net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samgcode/tic-tac-toe-neural-net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samgcode/tic-tac-toe-neural-net/issues"
+  },
+  "homepage": "https://github.com/samgcode/tic-tac-toe-neural-net#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "p5": "^1.3.0"
+  }
+}
